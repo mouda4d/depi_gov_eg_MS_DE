@@ -1,0 +1,12 @@
+<?xml 
+version="1.0"?><DTSDeploymentManifest 
+GeneratedBy="AzureAD\es-Faresahmed2020" 
+GeneratedFromProjectName="DeploymentTutorialFinal"
+ GeneratedDate="2024-08-08T05:26:44.0201368+03:00" 
+ AllowConfigurationChanges="true">
+ <Package>LoadXMLData.dtsx</Package>
+ <Package>DataTransfer.dtsx</Package>
+ <ConfigurationFile>datatransferconfig.dtsconfig</ConfigurationFile>
+ <ConfigurationFile>loadxmldataconfig.dtsconfig</ConfigurationFile>
+ <MiscellaneousFile>NewCustomers.txt</MiscellaneousFile><MiscellaneousFile>orders.xml</MiscellaneousFile><MiscellaneousFile>
+ orders.xsd</MiscellaneousFile><MiscellaneousFile>Readme.txt</MiscellaneousFile></DTSDeploymentManifest>
